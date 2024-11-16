@@ -1,0 +1,8 @@
+LOAD
+VLOAD
+ADD | Delta Airlines|DL124|Boston|180|On Time
+SEARCH_BP | Delta Airlines
+SEARCH_BP | Chicago|Los Angeles
+SEARCH_AVL | American Airlines
+PRINT_BP
+VPRINT | destination

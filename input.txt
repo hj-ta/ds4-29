@@ -1,0 +1,3 @@
+Delta Airlines|DL123|New York|200|On Time
+American Airlines|AA456|Chicago|150|Delayed
+United Airlines|UA789|Los Angeles|180|On Time
